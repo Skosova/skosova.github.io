@@ -1,0 +1,1 @@
+﻿var textForPages = ["—Alte Vogtei - Fisch \& Meer—                                             —Restaurant \& Café—",""];
